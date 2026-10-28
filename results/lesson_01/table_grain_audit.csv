@@ -1,0 +1,10 @@
+﻿table,rows,grain,missing_cells
+customers,1200,一个客户,0
+products,24,一个SKU,0
+sessions,22000,一次会话,0
+orders,3815,一张订单,0
+order_items,5906,一张订单的一个SKU行,5459
+marketing,1460,一天一个渠道,0
+inventory,8760,一天一个SKU,0
+experiment,8000,一位试验访客,0
+reviews,800,一条评论,0
